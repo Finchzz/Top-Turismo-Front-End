@@ -26,7 +26,23 @@ responsividade e ícones para um toque mais profissional.
 
 # Tecnologias Utilizadas 🖥️
 <div align='center'> 
-<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000">
-<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000">
-<img src="./imagens/icons8-js.gif">
+<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height='60'>
+<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" height='60'>
+<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" height='60'>
+ <img src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000" height='60'>
+ <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" height='60'>
+ <img src="https://img.icons8.com/?size=100&id=xBKl2pdJg5kk&format=png&color=000000" height='60'>
+ <img src="https://img.icons8.com/?size=100&id=118557&format=png&color=000000" height='60'>
+ <img src="https://img.icons8.com/?size=100&id=112161&format=png&color=000000" height='60'>
 </div>
+
+# Modo Claro/Escuro 🌗
+O site inclui um seletor de tema que permite alternar entre Light Mode e Dark Mode, garantindo uma experiência confortável em qualquer ambiente.
+
+# Estrutura do Projeto 📁
+
+<img src="./imagens/Projeto.png"> 
+
+# Demonstração Visual 📸
+
+<img src="./imagens/topturismo.gif">
