@@ -28,6 +28,5 @@ responsividade e ícones para um toque mais profissional.
 <div align='center'> 
 <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000">
 <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000">
-![JS](./imagens/icons8-js.gif)
-
+<img src="./imagens/icons8-js.gif">
 </div>
