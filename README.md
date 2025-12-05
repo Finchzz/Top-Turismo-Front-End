@@ -62,3 +62,8 @@ Este projeto foi desenvolvido como atividade prática de Front-End, aplicando co
  • Design responsivo. <br> 
  • Experiência do usuário. <br>
 
+# Autores 👓
+
+Fabiano - https://github.com/Finchzz <br>
+Maurício - https://github.com/Mauricio-3012 <br> 
+David - https://github.com/DavidLucas7080
