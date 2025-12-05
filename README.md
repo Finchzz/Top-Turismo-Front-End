@@ -46,3 +46,19 @@ O site inclui um seletor de tema que permite alternar entre Light Mode e Dark Mo
 # Demonstração Visual 📸
 
 <img src="./imagens/topturismo.gif">
+
+# Como Executar o Projeto 🧪
+1. Baixe ou Clone o Repositório
+   git clone https://github.com/Finchzz/Top-Turismo-Front-End.git
+2. Abra o arquivo principal.html em qualquer navegador.
+3. Navegue até os destinos ou vá diretamente para a área de reservas.
+
+# Objetivo do Projeto 📌
+Este projeto foi desenvolvido como atividade prática de Front-End, aplicando conceitos de:
+
+ • Estruturação com HTML. <br> 
+ • Estilização com CSS e Bootstrap. <br> 
+ • Interatividade com JavaScript. <br> 
+ • Design responsivo. <br> 
+ • Experiência do usuário. <br>
+
